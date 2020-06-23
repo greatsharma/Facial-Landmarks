@@ -1,4 +1,4 @@
-# Facial-Landmarks-AM
+# Facial-Landmarks
 
 Trained 3 custom dlib landmarks predictors for different parameter configuration using API provided by dlib.
 
