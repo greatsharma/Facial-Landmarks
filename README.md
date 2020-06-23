@@ -6,4 +6,4 @@ Here is a sample gif showing the model comparison. As we move from cell 2 to 4 t
 
 ![](outputs/lm-comparison.gif)
 
-For better visuals you can download [this](https://github.com/RajHarry/Facial-Landmarks-AM/blob/master/outputs/lm-comparison.mp4) and see locally.
+For better visuals you can download [this](https://github.com/greatsharma/Facial-Landmarks/blob/master/outputs/lm-comparison.mp4) and see locally.
